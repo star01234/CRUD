@@ -1,0 +1,235 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@mail.com",
+      "phone": "0123456789",
+      "birthday": "1990-01-01",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@mail.com",
+      "phone": "9876543210",
+      "birthday": "1991-02-15",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bob@mail.com",
+      "phone": "1234567890",
+      "birthday": "1990-03-20",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 4,
+      "name": "Emily Wilson",
+      "email": "emily@mail.com",
+      "phone": "5551234567",
+      "birthday": "1993-04-10",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 5,
+      "name": "David Lee",
+      "email": "david@mail.com",
+      "phone": "9876543210",
+      "birthday": "1991-05-25",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 6,
+      "name": "Sarah Brown",
+      "email": "sarah@mail.com",
+      "phone": "1239876543",
+      "birthday": "1992-06-30",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 7,
+      "name": "Sophia Martinez",
+      "email": "sophia@mail.com",
+      "phone": "5557778888",
+      "birthday": "1994-07-15",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 8,
+      "name": "Michael Johnson",
+      "email": "michael@mail.com",
+      "phone": "1235556666",
+      "birthday": "1993-08-20",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 9,
+      "name": "Olivia Anderson",
+      "email": "olivia@mail.com",
+      "phone": "9871234567",
+      "birthday": "1992-09-25",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 10,
+      "name": "Liam Thomas",
+      "email": "liam@mail.com",
+      "phone": "5551112222",
+      "birthday": "1995-10-15",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 11,
+      "name": "Ava Jackson",
+      "email": "ava@mail.com",
+      "phone": "1239998888",
+      "birthday": "1994-11-20",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 12,
+      "name": "Noah White",
+      "email": "noah@mail.com",
+      "phone": "9873334444",
+      "birthday": "1993-12-25",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 13,
+      "name": "Isabella Harris",
+      "email": "isabella@mail.com",
+      "phone": "5557773333",
+      "birthday": "1992-01-01",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 14,
+      "name": "Mason Wilson",
+      "email": "mason@mail.com",
+      "phone": "1236665555",
+      "birthday": "1991-02-05",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 15,
+      "name": "Olivia Moore",
+      "email": "olivia@mail.com",
+      "phone": "9874445555",
+      "birthday": "1990-03-10",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 16,
+      "name": "Lucas Davis",
+      "email": "lucas@mail.com",
+      "phone": "5552223333",
+      "birthday": "1989-04-15",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 17,
+      "name": "Sophia Brown",
+      "email": "sophia@mail.com",
+      "phone": "1238889999",
+      "birthday": "1988-05-20",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 18,
+      "name": "Logan Miller",
+      "email": "logan@mail.com",
+      "phone": "9875556666",
+      "birthday": "1987-06-25",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 19,
+      "name": "Emma Wilson",
+      "email": "emma@mail.com",
+      "phone": "5554446666",
+      "birthday": "1986-07-30",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 20,
+      "name": "Jackson Johnson",
+      "email": "jackson@mail.com",
+      "phone": "1237778888",
+      "birthday": "1985-08-05",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "name": "jjjjjjjjj",
+      "email": "baimint2403@gmail.com",
+      "phone": "0658624304",
+      "birthday": "2023-11-03",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "rhgrgsrg",
+      "major": "jjjjjjjjj",
+      "admissionYear": "2006",
+      "id": 21
+    }
+  ]
+}
